@@ -4,3 +4,4 @@ rules:
   - base: develop
     upstream: com-pas:develop
     mergeMethod: hardreset
+    mergeUnstable: true  # Merge PRs even if their GitHub Actions workflows are failing

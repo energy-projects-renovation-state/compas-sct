@@ -8,5 +8,6 @@
   "vulnerabilityAlerts": {
     "labels": ["security", "dependencies"],
   },
-  "baseBranches": ["develop"]
+  "baseBranches": ["develop"],
+  "forkProcessing": "enabled"
 }
