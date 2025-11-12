@@ -57,7 +57,7 @@
         <jackson-databind.version>2.13.4.1</jackson-databind.version>
 
         <!-- utils -->
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
     </properties>
 
     <dependencies>
