@@ -36,7 +36,7 @@
 
         <!-- xml -->
         <jakarta.xml.bind-api.version>4.0.4</jakarta.xml.bind-api.version>
-        <jaxb-runtime.version>4.0.6</jaxb-runtime.version>
+        <jaxb-runtime.version>4.0.9</jaxb-runtime.version>
         <jaxb2-maven-plugin.version>3.3.0</jaxb2-maven-plugin.version>
 
         <!-- json -->
