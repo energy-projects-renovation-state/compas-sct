@@ -58,7 +58,7 @@
 
         <!-- utils -->
         <lombok.version>1.18.42</lombok.version>
-        <slf4j-api.version>2.0.17</slf4j-api.version>
+        <slf4j-api.version>2.0.18</slf4j-api.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <commons-beanutils.version>1.11.0</commons-beanutils.version>
     </properties>
