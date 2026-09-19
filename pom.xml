@@ -40,7 +40,7 @@
         <jaxb2-maven-plugin.version>3.3.0</jaxb2-maven-plugin.version>
 
         <!-- json -->
-        <jackson-databind.version>2.21.0</jackson-databind.version>
+        <jackson-databind.version>2.22.2</jackson-databind.version>
 
         <!-- maven -->
         <maven-surefire-plugin.version>3.5.4</maven-surefire-plugin.version>
