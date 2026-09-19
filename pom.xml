@@ -54,7 +54,7 @@
         <junit-version>5.14.2</junit-version>
         <assertj.version>3.27.7</assertj.version>
         <mockito.version>5.21.0</mockito.version>
-        <jacoco-maven-plugin.version>0.8.14</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.15</jacoco-maven-plugin.version>
 
         <!-- utils -->
         <lombok.version>1.18.42</lombok.version>
